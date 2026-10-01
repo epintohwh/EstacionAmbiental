@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("EstacionAmbiental"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bfbe18e04f69f5af13479f5b763683b008507f6"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("EstacionAmbiental"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("EstacionAmbiental"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
