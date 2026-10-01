@@ -1,0 +1,17 @@
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\bin\Debug\net8.0-windows\EstacionAmbiental.exe
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\bin\Debug\net8.0-windows\EstacionAmbiental.deps.json
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\bin\Debug\net8.0-windows\EstacionAmbiental.runtimeconfig.json
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\bin\Debug\net8.0-windows\EstacionAmbiental.dll
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\bin\Debug\net8.0-windows\EstacionAmbiental.pdb
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.Form1.resources
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.vbproj.GenerateResource.cache
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.AssemblyInfoInputs.cache
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.AssemblyInfo.vb
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.vbproj.CoreCompileInputs.cache
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.dll
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\refint\EstacionAmbiental.dll
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.pdb
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\EstacionAmbiental.genruntimeconfig.cache
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\ref\EstacionAmbiental.dll
+C:\Users\INFORMATICA\source\repos\EstacionAmbiental\EstacionAmbiental\obj\Debug\net8.0-windows\Estacion.3168EF51.Up2Date
