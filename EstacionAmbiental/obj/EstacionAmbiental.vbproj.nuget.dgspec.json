@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INFORMATICA\\source\\repos\\EstacionAmbiental\\EstacionAmbiental\\EstacionAmbiental.vbproj": {}
+    "C:\\Users\\INFORMATICA\\source\\repos\\4C\\EstacionAmbiental\\EstacionAmbiental\\EstacionAmbiental.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\INFORMATICA\\source\\repos\\EstacionAmbiental\\EstacionAmbiental\\EstacionAmbiental.vbproj": {
+    "C:\\Users\\INFORMATICA\\source\\repos\\4C\\EstacionAmbiental\\EstacionAmbiental\\EstacionAmbiental.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFORMATICA\\source\\repos\\EstacionAmbiental\\EstacionAmbiental\\EstacionAmbiental.vbproj",
+        "projectUniqueName": "C:\\Users\\INFORMATICA\\source\\repos\\4C\\EstacionAmbiental\\EstacionAmbiental\\EstacionAmbiental.vbproj",
         "projectName": "EstacionAmbiental",
-        "projectPath": "C:\\Users\\INFORMATICA\\source\\repos\\EstacionAmbiental\\EstacionAmbiental\\EstacionAmbiental.vbproj",
+        "projectPath": "C:\\Users\\INFORMATICA\\source\\repos\\4C\\EstacionAmbiental\\EstacionAmbiental\\EstacionAmbiental.vbproj",
         "packagesPath": "C:\\Users\\INFORMATICA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFORMATICA\\source\\repos\\EstacionAmbiental\\EstacionAmbiental\\obj\\",
+        "outputPath": "C:\\Users\\INFORMATICA\\source\\repos\\4C\\EstacionAmbiental\\EstacionAmbiental\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,12 @@
         "net8.0-windows": {
           "framework": "net8.0-windows7.0",
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
